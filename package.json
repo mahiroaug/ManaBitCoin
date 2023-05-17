@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@openzeppelin/contracts": "^4.8.3",
+    "alchemy-sdk": "^2.8.3",
+    "dotenv": "^16.0.3"
+  },
+  "name": "20230517_erc20-2",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
